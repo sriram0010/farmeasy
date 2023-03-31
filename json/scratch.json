@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Temperature",
+    "img": "photo/tt1.png",
+    "scale": "18.0"
+  },
+  {
+    "title": "Soil tester",
+    "img": "photo/tt3.png",
+    "scale": "2.0"
+  },
+  {
+    "title": "Crop promoter",
+    "img": "photo/tt4.png",
+    "scale": "3.0"
+  },
+  {
+    "title": "Irrigation",
+    "img": "photo/tt2.png",
+    "scale": "4.0"
+  }
+]
